@@ -7,9 +7,6 @@
     <translator>
       <name>kohafan</name>
     </translator>
-    <translator>
-      <name>Peter Kubala</name>
-    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2014-03-09T22:23:31+00:00</updated>
   </info>
@@ -58,7 +55,7 @@
     <term name="anonymous">anonym</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">v</term>
-    <term name="available at">dostupné na</term>
+    <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">cca.</term>
@@ -239,20 +236,20 @@
       <multiple>locations</multiple>						 
     </term>
     <term name="equation">			 
-      <single>rovnica</single>
-      <multiple>rovnice</multiple>						 
+      <single>equation</single>
+      <multiple>equations</multiple>						 
     </term>
     <term name="rule">			 
-      <single>pravidlo</single>
-      <multiple>pravidlá</multiple>						 
+      <single>rule</single>
+      <multiple>rules</multiple>						 
     </term>
     <term name="scene">			 
-      <single>scéna</single>
-      <multiple>scény</multiple>						 
+      <single>scene</single>
+      <multiple>scenes</multiple>						 
     </term>
     <term name="table">			 
-      <single>tabuľka</single>
-      <multiple>tabuľky</multiple>						 
+      <single>table</single>
+      <multiple>tables</multiple>						 
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
@@ -303,12 +300,12 @@
       <multiple>strany</multiple>
     </term>
     <term name="number-of-volumes">
-      <single>zväzok</single>
-      <multiple>zväzky</multiple>
+      <single>volume</single>
+      <multiple>volumes</multiple>
     </term>
     <term name="page-first">
-      <single>strana</single>
-      <multiple>strany</multiple>
+      <single>page</single>
+      <multiple>pages</multiple>
     </term>
     <term name="printing">
       <single>printing</single>
@@ -353,8 +350,8 @@
       <multiple>verše</multiple>
     </term>
     <term name="volume">
-      <single>zväzok</single>
-      <multiple>zväzky</multiple>
+      <single>ročník</single>
+      <multiple>ročníky</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
@@ -441,8 +438,8 @@
       <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>zv.</single>
-      <multiple>zv.</multiple>
+      <single>roč.</single>
+      <multiple>roč.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
